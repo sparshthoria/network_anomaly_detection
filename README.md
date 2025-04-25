@@ -1,1 +1,1 @@
-# network_anomaly_detection
+# A high-performance machine learning-based IDS designed for real-time network threat detection. It utilizes optimized ML models like Random Forest and XGBoost, to detect anomalies efficiently. The project prioritizes less false rates, scalability, and computational efficiency, ensuring seamless deployment in diverse network environments.
